@@ -1,3 +1,45 @@
+### Note
+
+This pseudonym has been deprecated.
+
+```txt
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This is a PGP signed message confirming the deprecation of this
+pseudonym. I hereby confirm that I, without anyone forcing me in any
+way, am deprecating this pseudonym. Going forward, you can get in touch
+with me at the website here:
+
+https://samsapti.dev
+
+I will soon revoke the PGP key associated with this pseudonym, which is
+the one with fingerprint:
+
+FFFD 8602 E0E9 E6D9 E30E  EBEE DFD3 9F41 2054 CB84
+
+This message has been created and signed on June 8th 2022, by me,
+the_4n0nym0u53.
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEExmFtcy6V+8xsGKz0Ne4J9UgQSbsFAmKgqNUACgkQNe4J9UgQ
+SbvUYA/6AjrXrrnxxsE4VewzMeqVQR0Eag0oHyELcM0Xgl4P1NsjTtPFyrxEJFyy
+r2zULdLUiS34ilndAKfUqQh8QK8fOm6yyhYH/Gu3EHZMqoeVUvG9Z++pONplVOb2
+b1wvLfm/NSXtkW00C0j6GSEQTM1Q361PVe0UELowHyAar+uzVcYe2s+jVdQ+G8I5
+zPpPwLddXOMAa23BZcy2FmRp7wMy/cX9DfdpgS+QltIFtWShlDiGkyKemQFjcIs0
+nNVrYs08kr6o2ARUhmbsjvuF52DHSqxIlyobrzwiZpwSGI2rIKSTB5KXIHUB7ivn
+tvuCa0RG03bq7dvpULwXGisaOJpOmmn/w6SB5NtrN6LzAOk6TqKd67IzHep0zALW
+7qTemmfBrx2/EeFgEkhOWoIoeVY1N0J39ts9WMdwwEp1nM8vaw7OnViSsrZrttUT
+3Vx629akA4jH2dBYJqxok5HQaJk5eS4PNu8F82bYy9LP3T9cD2VpDG5DPswW9Mgz
+riExAtJggLclMLPzz8PKNae8YZjCniLV+hAdSHcI5WAX6tJxsdSOMDAa3fOhiJMy
+G71PXu/1ebSEZ0O/h8TeZWIHrRvXSMZHI43sSrovIWXLBssDHIwU50rOdDHwbeS8
+JHnBPw4W73gaKwjfhg+ng2KGjozejzZdKEnqMaTi/GmDmDyF/z0=
+=a/sH
+-----END PGP SIGNATURE-----
+```
+
+
 # My public PGP key
 
 My public PGP key's fingerprint is:
