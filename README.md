@@ -48,13 +48,19 @@ My public PGP key's fingerprint is:
 FFFD 8602 E0E9 E6D9 E30E  EBEE DFD3 9F41 2054 CB84
 ```
 
-You can download my public PGP key from this repository [here](https://raw.githubusercontent.com/theanonymousexyz/pgp-public-key/main/pgp.asc). You can also find it on various keyservers, e.g. [`keys.openpgp.org`](https://keys.openpgp.org/vks/v1/by-fingerprint/FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84). The easiest method is to import it with your favorite PGP program. Here's how to do it using `gpg` on Mac/Linux:
+You can download my public PGP key from this repository
+[here](https://raw.githubusercontent.com/theanonymousexyz/pgp-public-key-theanonymousexyz/main/pgp.asc).
+You can also find it on various keyservers, e.g.
+[`keys.openpgp.org`](https://keys.openpgp.org/vks/v1/by-fingerprint/FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84).
+The easiest method is to import it with your favorite PGP program. Here's how
+to do it using `gpg` on Mac/Linux:
 
 ```
 $ gpg --recv-keys FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84
 ```
 
-The output of `$ gpg --list-key --with-fingerprint --keyid-format 0xlong FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84` should match the following:
+The output of `gpg --list-key --with-fingerprint --keyid-format 0xlong
+FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84` should match the following:
 
 ```
 pub   rsa4096/0xDFD39F412054CB84 2021-10-23 [C] [expires: 2023-10-23]
