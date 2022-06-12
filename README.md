@@ -39,6 +39,16 @@ JHnBPw4W73gaKwjfhg+ng2KGjozejzZdKEnqMaTi/GmDmDyF/z0=
 -----END PGP SIGNATURE-----
 ```
 
+#### Update 12-06-2022
+
+The key has been revoked. Revocation certificate has been uploaded to
+keyservers, but can also be found
+[here](https://raw.githubusercontent.com/samsaptidev/pgp-public-key-theanonymousexyz/main/revoke.asc).
+
+After importing the revocation certificate, `gpg --list-sigs
+FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84` should show the revocation
+reason, as well as the revocation comment where I have put the
+fingerprint of my new PGP key.
 
 # My public PGP key
 
@@ -49,7 +59,7 @@ FFFD 8602 E0E9 E6D9 E30E  EBEE DFD3 9F41 2054 CB84
 ```
 
 You can download my public PGP key from this repository
-[here](https://raw.githubusercontent.com/theanonymousexyz/pgp-public-key-theanonymousexyz/main/pgp.asc).
+[here](https://raw.githubusercontent.com/samsaptidev/pgp-public-key-theanonymousexyz/main/pgp.asc).
 You can also find it on various keyservers, e.g.
 [`keys.openpgp.org`](https://keys.openpgp.org/vks/v1/by-fingerprint/FFFD8602E0E9E6D9E30EEBEEDFD39F412054CB84).
 The easiest method is to import it with your favorite PGP program. Here's how
